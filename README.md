@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Magali22R
+- 👀 I am interested in software and web development.
+- 🌱 I am currently learning programming.
+- 💞️I'm looking to collaborate on projects.
+- 📫 How to reach me magalidaianarodriguezm@gmail.com
